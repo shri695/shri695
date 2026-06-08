@@ -55,6 +55,33 @@ Currently exploring opportunities in **frontend development** and internships wh
 
 ## Featured Projects
 
+### 🧩 [React UI Kit](https://github.com/shri695/react-ui-kit)
+`React` · `Custom Hooks` · `Protected Routes` · `Component Architecture`
+
+Reusable React components and hooks (`useFetch`, `useAuth`, `ProtectedRoute`) for production-style frontend development.
+
+[View Repository →](https://github.com/shri695/react-ui-kit)
+
+---
+
+### 🔐 [Express JWT Auth Starter](https://github.com/shri695/express-jwt-auth-starter)
+`Node.js` · `Express` · `JWT` · `bcrypt` · `REST API`
+
+Minimal authentication API with register/login flows, JWT middleware, and protected endpoints.
+
+[View Repository →](https://github.com/shri695/express-jwt-auth-starter)
+
+---
+
+### 🧠 [JavaScript Algorithms Handbook](https://github.com/shri695/javascript-algorithms)
+`JavaScript` · `DSA` · `Interview Prep`
+
+Classic algorithm implementations — Two Sum, BFS/DFS, Binary Search, Sorting, Dynamic Programming.
+
+[View Repository →](https://github.com/shri695/javascript-algorithms)
+
+---
+
 ### 🚨 [Emergency Alert & Response System](https://github.com/shri695/YesMadam-SOS)
 `React` · `Node.js` · `MongoDB` · `JWT` · `REST APIs` · `Twilio`
 
