@@ -20,6 +20,8 @@ I'm a **Computer Science student** passionate about building **consumer-facing w
 
 Currently exploring opportunities in **frontend development** and internships where I can contribute to scalable, user-focused products.
 
+**Open to internships** · Bangalore, India · [Resume available on request](mailto:shrilakshmidoijode1@gmail.com)
+
 ---
 
 ## Tech Stack
