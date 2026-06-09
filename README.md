@@ -10,6 +10,9 @@
 
 📍 Bangalore, India · 🎓 B.E. Computer Science (2024–2027)
 
+[![Open to Internships](https://img.shields.io/badge/Status-Open%20to%20Frontend%20Internships-22C55E?style=for-the-badge)](mailto:shrilakshmidoijode1@gmail.com)
+[![Placement Prep](https://img.shields.io/badge/Placement%20Prep-July%202026%20Onwards-2563EB?style=for-the-badge)](https://github.com/shri695/javascript-algorithms)
+
 </div>
 
 ---
@@ -131,9 +134,19 @@ Cybersecurity dashboard with authentication, URL scanning, analytics, scan histo
 
 ## What I'm Working On
 
-- Building reusable React component libraries
-- Improving frontend performance and responsive design
-- Learning deployment workflows for production web apps
+- 🎯 **Placement preparation** — DSA + React (starting July 2026)
+- 🧩 Building reusable React component libraries
+- 🔐 Strengthening JWT auth and REST API integration patterns
+- 📊 Daily algorithm practice — [javascript-algorithms](https://github.com/shri695/javascript-algorithms)
+
+## Recruiter Quick View
+
+| Looking for | Frontend Intern · React.js · Web Development |
+|-------------|---------------------------------------------|
+| Strengths | React UI, REST APIs, JWT flows, component architecture |
+| Main project | [YesMadam-SOS](https://github.com/shri695/YesMadam-SOS) — full-stack emergency alert app |
+| Repos | 5 active technical projects |
+| Location | Bangalore, India |
 
 ---
 
