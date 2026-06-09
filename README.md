@@ -11,7 +11,6 @@
 📍 Bangalore, India · 🎓 B.E. Computer Science (2024–2027)
 
 [![Open to Internships](https://img.shields.io/badge/Status-Open%20to%20Frontend%20Internships-22C55E?style=for-the-badge)](mailto:shrilakshmidoijode1@gmail.com)
-[![Placement Prep](https://img.shields.io/badge/Placement%20Prep-July%202026%20Onwards-2563EB?style=for-the-badge)](https://github.com/shri695/javascript-algorithms)
 
 </div>
 
@@ -134,7 +133,6 @@ Cybersecurity dashboard with authentication, URL scanning, analytics, scan histo
 
 ## What I'm Working On
 
-- 🎯 **Placement preparation** — DSA + React (starting July 2026)
 - 🧩 Building reusable React component libraries
 - 🔐 Strengthening JWT auth and REST API integration patterns
 - 📊 Daily algorithm practice — [javascript-algorithms](https://github.com/shri695/javascript-algorithms)
